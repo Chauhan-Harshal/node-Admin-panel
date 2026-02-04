@@ -9,8 +9,4 @@ router.post('/login', login);
 router.post('/logout', logout);
 
 export default router;
-//
-//Show Password
 
-// mongodb+srv://chauhanharshal382_db_user:R3iKGUnrgCsInk41@cluster01.tqzyqgp.mongodb.net/?appName=Cluster01
-// password
